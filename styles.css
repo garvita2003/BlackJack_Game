@@ -1,0 +1,48 @@
+#titles
+{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color:yellow;
+}
+#message,#card,#res,#price
+{
+    font-size: large;
+    color:rgb(235, 235, 84);
+}
+div
+{
+    background-color: rgb(2, 105, 2);
+    border:2px solid black;
+    margin:0 25% 0 25%;
+}
+#btn1,#btn2,#btn3,#btn4
+{
+    padding: 8px;
+    font-size: medium;
+    background-color: rgb(183, 180, 180);
+    color: black;
+}
+#btn1:hover
+{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#btn2:hover
+{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#btn3:hover
+{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#btn4:hover
+{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
